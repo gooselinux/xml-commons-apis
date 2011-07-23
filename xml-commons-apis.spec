@@ -193,6 +193,9 @@ fi
 # -----------------------------------------------------------------------------
 
 %changelog
+* Fri Jul 22 2011 Mike Adams <shalkie@gooseproject.org> - 0:1.3.04-3.6
+- Initial rebuild for GoOSe Linux 6
+
 * Mon Nov 30 2009 Dennis Gregorovic <dgregor@redhat.com> - 0:1.3.04-3.6
 - Rebuilt for RHEL 6
 
